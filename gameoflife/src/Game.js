@@ -1,6 +1,6 @@
 import React, {useState, useEffect, useRef, useCallback} from 'react';
 import produce from 'immer'
-import './Game.css'
+
 
 const numRows = 50;
 const numCols = 50;
